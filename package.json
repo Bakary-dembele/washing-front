@@ -55,6 +55,8 @@
     "ngx-progressbar": "^11.1.0",
     "ngx-toastr": "^18.0.0",
     "photoviewer": "^3.9.2",
+    "primeicons": "^6.0.1",
+    "primeng": "^17.7.0",
     "rxjs": "~7.8.0",
     "screenfull": "^6.0.2",
     "tslib": "^2.6.0",

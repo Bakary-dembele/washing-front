@@ -191,7 +191,7 @@ export class AutocompleteComponent implements OnInit {
     },
     {
       letter: 'W',
-      names: ['Washington', 'West Virginia', 'Wisconsin', 'Wyoming'],
+      names: ['ng-materoton', 'West Virginia', 'Wisconsin', 'Wyoming'],
     },
   ];
   stateGroupOptions!: Observable<StateGroup[]>;

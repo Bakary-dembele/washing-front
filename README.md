@@ -5,12 +5,12 @@
 </p>
 
 <h1 align="center">
-NG-MATERO
+ng-matero
 </h1>
 
 <div align="center">
 
-Ng-Matero is an Angular admin template made with Material components.
+ng-matero is an Angular admin template made with Material components.
 
 [![CodeFactor](https://www.codefactor.io/repository/github/ng-matero/ng-matero/badge)](https://www.codefactor.io/repository/github/ng-matero/ng-matero)
 [![npm](https://img.shields.io/npm/v/ng-matero.svg)](https://www.npmjs.com/package/ng-matero)
@@ -47,7 +47,7 @@ Ng-Matero is an Angular admin template made with Material components.
 
 Which version to use?
 
-| Angular | Material | Ng-Matero | Extensions |
+| Angular | Material | ng-matero | Extensions |
 | ------- | -------- | --------- | ---------- |
 | v17     | v17      | 17.x.x    | 17.x.x     |
 | v16     | v16      | 16.3.0    | 16.3.2     |
