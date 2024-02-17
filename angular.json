@@ -34,7 +34,8 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.scss"
+              "src/styles.scss",
+              "src/assets/fonts/Material_Icons.css"
             ],
             "scripts": [
               "node_modules/apexcharts/dist/apexcharts.min.js"
@@ -45,7 +46,7 @@
               "budgets": [
                 {
                   "type": "initial",
-                  "maximumWarning": "2mb",
+                  "maximumWarning": "5mb",
                   "maximumError": "5mb"
                 },
                 {
@@ -105,7 +106,8 @@
             "tsConfig": "tsconfig.spec.json",
             "karmaConfig": "karma.conf.js",
             "styles": [
-              "src/styles.scss"
+              "src/styles.scss",
+              "src/assets/fonts/Material_Icons.css"
             ],
             "scripts": [
               "node_modules/apexcharts/dist/apexcharts.min.js"
