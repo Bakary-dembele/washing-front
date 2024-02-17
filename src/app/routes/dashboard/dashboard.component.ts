@@ -63,9 +63,17 @@ export class DashboardComponent implements OnInit, AfterViewInit, OnDestroy {
     private settings: SettingsService
   ) {}
 
+  users: any[] | undefined;
+
   ngOnInit() {
     this.notifySubscription = this.settings.notify.subscribe(res => {
       console.log(res);
+    });
+
+    this.dashboardSrv.getAllUsers().subscribe((data) => {
+      console.log(data);
+      
+    this.users = data;
     });
   }
 
